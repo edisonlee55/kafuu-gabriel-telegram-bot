@@ -1,0 +1,28 @@
+{
+  "name": "kafuu-gabriel-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonlee55/kafuu-gabriel-telegram-bot.git"
+  },
+  "keywords": [
+    "kafuu",
+    "gabriel",
+    "telegram",
+    "bot"
+  ],
+  "author": {
+    "name": "Edison Lee",
+    "email": "edisonlee@edisonlee55.com",
+    "url": "https://www.edisonlee55.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edisonlee55/kafuu-gabriel-telegram-bot/issues",
+    "email": "edisonlee@edisonlee55.com"
+  }
+}
